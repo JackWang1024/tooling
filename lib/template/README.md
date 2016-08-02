@@ -25,9 +25,9 @@ import './style.css'
 // ... your app code
 ```
 
-### `tooling.config.js`
+## `tooling.config.js`
 
-## Override CSS(PostCSS) plugins
+### Override CSS(PostCSS) plugins
 
 ```js
 export default options => {
@@ -39,7 +39,7 @@ export default options => {
 }
 ```
 
-## Override JS(Babel) plugins(presets)
+### Override JS(Babel) plugins(presets)
 
 ```js
 export default options => {
