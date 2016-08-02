@@ -1,6 +1,6 @@
 {
   "name": "tooling",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "description": "Painless build tool for JavaScript apps.",
   "license": "MIT",
   "repository": "egoist/tooling",
